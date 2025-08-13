@@ -1,22 +1,7 @@
 # Proyecto Grupal - Diseño de Bases de Datos
 
 ## Tabla de Contenido
-- [0. Acerca del Grupo](./0/0.md)
-  - [0.0. Antecedentes: Proyecto del curso Modelado Conceptual de Datos](./0/0.0/0.0.md)
-  - [0.1. Integrante 1](./0/0.1/0.1.md)
-  - [0.2. Integrante 2](./0/0.2/0.2.md)
-  - [0.3. Integrante 3](./0/0.3/0.3.md)
-  - [0.4. Integrante 4](./0/0.4/0.4.md)
-  - [0.5. Integrante 5](./0/0.5/0.5.md)
-  - [0.6. Integrante 6](./0/0.6/0.6.md)
-  - [0.7. Integrante 7](./0/0.7/0.7.md)
-  - [0.8. Presentaciones Individuales (Videos) por cada PC](./0/0.8/0.8.md)
-  - [0.9. Presentaciones Individuales (Monografía)](./0/0.9/0.9.md)
-- [1. Descripción de la Empresa Elegida](./1/1.md)
-  - [1.1. Datos de la Empresa](./1/1.1/1.1.md)
-  - [1.2. Modelo de Negocio](./1/1.2/1.2.md)
-  - [1.3. Procesos de Negocio identificados](./1/1.3/1.3.md)
-  - [1.4. Captura de Requerimientos: Entrevista con Usuario](./1/1.4/1.4.md)
+- [1. Acerca del Proyecto](./1/1.md)
 - [2. Especificación de Módulos](./2/2.md)
   - [2.1. Diagrama de Paquetes](./2/2.1/2.1.md)
   - [2.2. Listado de Módulos](./2/2.2/2.2.md)
