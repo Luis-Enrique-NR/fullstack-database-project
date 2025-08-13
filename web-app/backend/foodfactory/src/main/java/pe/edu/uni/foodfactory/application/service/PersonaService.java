@@ -66,7 +66,6 @@ public class PersonaService {
         Ubigeo ubigeo;
         if (dtoPresentation.getCodigoUbigeo() == null) {
             ubigeo = null;
-
         } else {
             ubigeo = ubigeoRepository.findById(dtoApplication.getCodigoUbigeo())
                     .orElseThrow(() -> new NotFoundException("No se encontró ubigeo con código " + dtoApplication.getCodigoUbigeo()));
