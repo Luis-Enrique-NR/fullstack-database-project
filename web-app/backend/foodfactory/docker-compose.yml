@@ -1,0 +1,15 @@
+services:
+  db-food-factory:
+    image: postgres:16.3
+    container_name: container_food_factory_db
+    environment:
+      POSTGRES_DB: food_factory_db
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 123456
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data_food_factory:/var/lib/postgresql/data
+
+volumes:
+  postgres_data_food_factory:
